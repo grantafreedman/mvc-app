@@ -1,0 +1,12 @@
+Grade Criteria (1 to 5): 
+
+1. Does the app clearly follow the MVC pattern with proper separation of concerns?
+2. Is there thorough input validation for invalid entries (e.g., empty, non-numeric, special characters)?
+3. Does the app handle errors gracefully and provide clear error messages?
+4. Are invalid inputs handled without breaking the application?
+5. Is data (both valid inputs and errors) correctly stored in the model (CSV file)?
+6. Is the user interface intuitive and does it display results and errors clearly on the same page?
+7. Is the code well-organized and easy to understand?
+8. Is the code modular and reusable in other parts of the app or future projects?
+9. Does the app perform efficiently without lagging or slowing down?
+10. Did the app follow the principles outlined in the official documentation?

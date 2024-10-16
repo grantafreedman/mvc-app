@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Odd or Even Checker</title>
+</head>
+<body>
+    <h1>Check if a Number is Odd or Even</h1>
+    <form method="POST">
+        <label for="number">Enter a number:</label>
+        <input type="text" name="number" id="number" required>
+        <button type="submit">Check</button>
+    </form>
+
+    {% if result %}
+    <p><strong>Result:</strong> {{ result }}</p>
+    {% endif %}
+
+    {% if error %}
+    <p style="color: red;"><strong>Error:</strong> {{ error }}</p>
+    {% endif %}
+</body>
+</html>

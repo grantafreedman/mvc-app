@@ -1,0 +1,9 @@
+3,3 is odd.
+2,2 is even.
+sdsD,"Invalid input, must be an integer"
+!!,"Invalid input, must be an integer"
+æ ,"Invalid input, must be an integer"
+3,3 is odd.
+1234 4,"Invalid input, must be an integer"
+1234.5,"Invalid input, must be an integer"
+12,12 is even.
