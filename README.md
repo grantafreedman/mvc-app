@@ -7,7 +7,6 @@ Flask - '3.0.3'
 
 To run web app:
 
-cd /mvc-app
 python3 app.py
 
 App is running on 127.0.0.1:8080
